@@ -1,5 +1,8 @@
 # FIVEM-ESCROW-BYPASS
 VERY EASY TO USE.
-JUST REPLACE FXServer.exe WITH THE NEW FXServer.exe
+
+JUST REPLACE FXServer.exe WITH THE NEW FXServer.exe AND PUT THE bypass.dll ALSO.
+
 (USE ANY PAID SCRIPT IN FIVEM, MAPPINGS WORKING ALSO)
+
 ![image](https://user-images.githubusercontent.com/84667937/200367718-59d56bb2-e6b5-47b2-bce2-41ae3c073a3e.png)
